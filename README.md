@@ -36,5 +36,7 @@
 1. Claim-Level Fraud Detection: Identifying anomalous claims that deviate from typical patterns, helping prevent financial losses from inflated or fabricated claims.
 2. Employee Fraud Detection: Using employee behavior patterns to flag suspicious activities, which strengthens internal controls and highlights potential misuse of authority by agents or adjusters.
 3. Employee-Vendor Collusion Detection: Leveraging network analysis to detect abnormal relationships between employees and vendors, identifying collusion that could compromise claim integrity.
-- This case study emphasizes the value of advanced data science techniques, from feature engineering and machine learning to network analysis, in building a robust fraud detection framework. With a comprehensive data science approach, insurance companies can greatly enhance their ability to detect and respond to fraudulent claims, thus safeguarding their financial resources and improving trust with their customer base. 
+- This case study emphasizes the value of advanced data science techniques, from feature engineering and machine learning to network analysis, in building a robust fraud detection framework. With a comprehensive data science approach, insurance companies can greatly enhance their ability to detect and respond to fraudulent claims, thus safeguarding their financial resources and improving trust with their customer base.
+
+------To see the complete video explanations on this topics, check out the following link: https://youtu.be/MsFrcNm0xC0?si=jljUEmzPj9PX_DFj
   
